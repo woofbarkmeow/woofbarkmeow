@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James aka @woofbarkmeow
 - 👀 I’m interested in chemistry. 
-- 🌱 I’m currently studying chemistry. 
+- 🧪 I’m currently studying chemistry. 
 - 🌱 I’m currently learning java. 
 - 📫 How to reach me ...
 
